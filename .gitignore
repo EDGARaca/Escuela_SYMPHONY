@@ -1,0 +1,6 @@
+*.pyc
+*.log
+*.tmp
+.env
+*.DS_Store
+nuestros-mensaje.txt
