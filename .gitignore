@@ -4,3 +4,4 @@
 .env
 *.DS_Store
 nuestros-mensaje.txt
+_pycache_/
